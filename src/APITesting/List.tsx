@@ -1,3 +1,5 @@
+Author - Abdul Wasay
+
 import React, { useEffect, useState } from 'react';
 import { Text, View, FlatList } from 'react-native';
 import { StyleSheet } from 'react-native';
